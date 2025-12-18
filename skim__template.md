@@ -1,22 +1,41 @@
-# Paper
-Title:
-Authors:
-Venue / Year:
+# Paper Skim Notes — [Paper Title]
 
-## Why I Skimmed This
-(1–2 sentences)
+**URL:** [arXiv / PDF link]  
+**Domain:** [ECE / ML / Robotics]  
+**Date Skimmed:** YYYY‑MM‑DD  
 
-## Problem Addressed
-(Plain English, no jargon)
+## Stop Point Reached
+- [ ] Abstract
+- [ ] Intro
+- [ ] Figures
+- [ ] Conclusion
 
-## Key Idea (My Current Understanding)
-(Allowed to be incomplete)
+---
 
-## Assumptions
-(Listed, even if guessed)
+## 1) Problem (informal, 1 sentence)
+[Your sentence here]
 
-## Limitations / Confusions
-(At least one)
+## 2) Why this problem exists (context)
+[Bullet short: system / application / research gap]
 
-## Vocabulary to Revisit
-(Bullets only)
+## 3) Vocabulary & terms (list up to 6)
+- term: brief meaning
+- term: brief meaning
+- ...
+
+## 4) Solution pattern (choose 1–2)
+- Modeling
+- Benchmark / dataset
+- System design
+- Control
+- Learning
+- Optimization
+
+## 5) What this paper is *not* doing
+[Short bullet list: math / proofs / implementations / baselines not needed]
+
+## 6) Why another paper would *cite* this
+[One sentence: e.g., introduces benchmark / taxonomy / problem framing / dataset]
+
+## 7) One question I now have (no answer)
+[Your open question here]
