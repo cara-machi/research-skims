@@ -1,6 +1,8 @@
 # Paper Skim Notes — [Paper Title]
 
-**URL:** [arXiv / PDF link]  
+**Venue:** ICML
+**Year:** 2011
+**Link:** [PDF link]
 **Domain:** [ECE / ML / Robotics]  
 **Date Skimmed:** YYYY‑MM‑DD  
 
